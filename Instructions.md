@@ -1,1 +1,1 @@
-Use the VS Code Live Server Extension to run this code.
+Clone the repository onto your computer and use the VS Code Live Server Extension to run this code.
